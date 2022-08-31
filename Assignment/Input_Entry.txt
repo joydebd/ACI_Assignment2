@@ -1,0 +1,3 @@
+Enter flight numbers in first line and available slots in second line
+J-9W4569, J-9W377, J-9W4331, J-9W601, J-9W665
+SixAM_Slot,SevenAM_Slot,EightAM_Slot,NineAM_Slot
